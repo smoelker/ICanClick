@@ -9,7 +9,7 @@ ICanClick is a tool that performs mouse clicks for you in case you can't operate
 #How does it work?
 <img src="https://raw.githubusercontent.com/smoelker/ICanClick/master/Images/screenshot.png" />
 
-When ICanClick is launched it will automatically start performing left mouse button clicks everytime you stop moving the cursor for longer than 750ms. Also, a small tool window is opened in the left bottom of your screen. So, the default is left mouse click and on the tool window you can select the next mouse button click that will be performed after which the next click will be reset to the default (left mouse button).
+When ICanClick is launched it will automatically start performing left mouse button clicks everytime you stop moving the cursor for longer than 750ms (adjustable). Also, a small tool window is opened in the left bottom of your screen. So, the default is left mouse click and on the tool window you can select the next mouse button click that will be performed after which the next click will be reset to the default (left mouse button).
 
 #System requirements
 - Microsoft Windows XP, Vista, 7, 8 or higher.
