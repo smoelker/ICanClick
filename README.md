@@ -2,6 +2,10 @@ ICanClick
 =========
 ICanClick is a tool that performs mouse clicks for you in case you can't operate the mouse buttons yourself (because of rheumatism or osteoarthritis for example). To use the tool you need to be able to move the cursor eighther with a mouse or an other input device.
 
+#Download
+
+[Download](https://github.com/smoelker/ICanClick/blob/master/Binaries/ICanClick.1.0.5428.27558.zip) the ICanClick executable for Windows from the [Binaries](https://github.com/smoelker/ICanClick/tree/master/Binaries) folder.
+
 #How does it work?
 <img src="https://raw.githubusercontent.com/smoelker/ICanClick/master/Images/screenshot.png" />
 
