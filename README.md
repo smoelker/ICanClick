@@ -1,6 +1,6 @@
 ICanClick
 =========
-ICanClick is a tool that performs mouse clicks for you in case you can't operate the mouse buttons yourself (because of rheumatism or osteoarthritis for example). To use the tool you need to be able to move the cursor eighther with a mouse or an other input device.
+ICanClick is a tool that performs mouse clicks for you in case you can't operate the mouse buttons yourself (because of rheumatism or osteoarthritis for example). To use the tool you need to be able to move the cursor eighther with a mouse or an other input device. The functionality is similar to Origin Instuments' "Dragger".
 
 #Download
 
